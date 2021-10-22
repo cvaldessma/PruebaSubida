@@ -12,22 +12,7 @@ public class Ej4 {
 			System.out.println(i);
 			System.out.println(i);
 			System.out.println(i);
-			
-			
-			System.out.println(i);
-			System.out.println(i);
-			System.out.println(i);
-			System.out.println(i);
-			
-			
-			System.out.println(i);
-			System.out.println(i);
-			System.out.println(i);
-			System.out.println(i);
-			
-			
-			System.out.println(i);
-			System.out.println(i);
+		
 			System.out.println(i);
 			System.out.println(i);
 			
