@@ -9,10 +9,6 @@ public class Ej1 {
 		// el valor medio, el mayor y el menor. Imprime de forma descriptiva 
 		// y adecuada los resultados obtenidos
 		Scanner sc = new Scanner(System.in);
-		int NUM_INPUTS = 5;
-		int[] array = new int[5];
-		int suma = 0;
-		int mayor = Integer.MIN_VALUE;
 		int menor = Integer.MAX_VALUE;
 
 		for(int i = 0; i<NUM_INPUTS; i++) {
