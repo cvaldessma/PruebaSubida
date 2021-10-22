@@ -7,5 +7,24 @@ public class Ej4 {
 		while(true==true){
 			System.out.println("Soy más tonto que yo que se que");
 		}
+		
+		for (int i = 100; i>=0; i=i-5) {
+			System.out.println(i);
+			
+			
+			System.out.println(i);
+			System.out.println(i);
+			System.out.println(i);
+			System.out.println(i);
+		
+			System.out.println(i);
+			System.out.println(i);
+			
+			
+			System.out.println(i);
+			System.out.println(i);
+			System.out.println(i);
+			System.out.println(i);
+		}
 	}
 }
