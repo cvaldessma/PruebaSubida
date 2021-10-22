@@ -16,14 +16,5 @@ public class Ej2 {
 		int menor = valor1<valor2?valor1:valor2;
 		String esModulo = mayor % menor == 0 ? " si" : " no";
 		System.out.println(mayor + esModulo + " es múltiplo de " + menor);
-		int menor = valor1<valor2?valor1:valor2;
-		String esModulo = mayor % menor == 0 ? " si" : " no";
-		System.out.println(mayor + esModulo + " es múltiplo de " + menor);
-		int menor = valor1<valor2?valor1:valor2;
-		String esModulo = mayor % menor == 0 ? " si" : " no";
-		System.out.println(mayor + esModulo + " es múltiplo de " + menor);
-		int menor = valor1<valor2?valor1:valor2;
-		String esModulo = mayor % menor == 0 ? " si" : " no";
-		System.out.println(mayor + esModulo + " es múltiplo de " + menor);
 	}
 }
