@@ -14,6 +14,12 @@ public class Ej1 {
 		int suma = 0;
 		int mayor = Integer.MIN_VALUE;
 		int menor = Integer.MAX_VALUE;
+int suma = 0;
+		int mayor = Integer.MIN_VALUE;
+		int menor = Integer.MAX_VALUE;
+int suma = 0;
+		int mayor = Integer.MIN_VALUE;
+		int menor = Integer.MAX_VALUE;
 
 		for(int i = 0; i<NUM_INPUTS; i++) {
 			System.out.println("Introduce un valor");
