@@ -6,9 +6,9 @@ public class Ej4 {
 		//Escribir todos los números del 100 al 0 de 5 en 5
 		while(true==true){
 			int i=1;
-			String cesar = "a ver si explotas"
 			i++;
-
+			System.out.jjj("Soy más tonto que yo que se que");
+			ArrayList<String> cesar = new ArrayList<>();
 		}
 		
 		for (int i = 100; i>=0; i=i-5) {
